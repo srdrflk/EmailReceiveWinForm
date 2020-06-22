@@ -1,0 +1,12 @@
+C:\Users\Serdar\source\repos\EmailReceive.Aruna\EmailReceive.Aruna\bin\Debug\EmailReceive.Aruna.exe.config
+C:\Users\Serdar\source\repos\EmailReceive.Aruna\EmailReceive.Aruna\bin\Debug\EmailReceive.Aruna.exe
+C:\Users\Serdar\source\repos\EmailReceive.Aruna\EmailReceive.Aruna\bin\Debug\EmailReceive.Aruna.pdb
+C:\Users\Serdar\source\repos\EmailReceive.Aruna\EmailReceive.Aruna\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\Serdar\source\repos\EmailReceive.Aruna\EmailReceive.Aruna\obj\Debug\EmailReceive.Aruna.csprojAssemblyReference.cache
+C:\Users\Serdar\source\repos\EmailReceive.Aruna\EmailReceive.Aruna\obj\Debug\EmailReceive.Aruna.Form1.resources
+C:\Users\Serdar\source\repos\EmailReceive.Aruna\EmailReceive.Aruna\obj\Debug\EmailReceive.Aruna.Properties.Resources.resources
+C:\Users\Serdar\source\repos\EmailReceive.Aruna\EmailReceive.Aruna\obj\Debug\EmailReceive.Aruna.csproj.GenerateResource.cache
+C:\Users\Serdar\source\repos\EmailReceive.Aruna\EmailReceive.Aruna\obj\Debug\EmailReceive.Aruna.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\source\repos\EmailReceive.Aruna\EmailReceive.Aruna\obj\Debug\EmailReceive.Aruna.csproj.CopyComplete
+C:\Users\Serdar\source\repos\EmailReceive.Aruna\EmailReceive.Aruna\obj\Debug\EmailReceive.Aruna.exe
+C:\Users\Serdar\source\repos\EmailReceive.Aruna\EmailReceive.Aruna\obj\Debug\EmailReceive.Aruna.pdb
